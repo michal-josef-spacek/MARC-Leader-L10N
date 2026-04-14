@@ -18,6 +18,7 @@ meta-spec:
 name: MARC-Leader-L10N
 no_index:
   directory:
+    - examples
     - inc
     - t
     - xt
