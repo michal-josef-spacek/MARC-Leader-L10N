@@ -4,7 +4,7 @@ use base qw(MARC::Leader::L10N);
 use strict;
 use warnings;
 
-our $VERSION = 0.02;
+our $VERSION = 0.03;
 
 our %Lexicon = (
 	'_AUTO' => 1,
