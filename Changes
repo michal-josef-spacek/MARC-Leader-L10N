@@ -1,4 +1,5 @@
 0.03
+ - Add tests for get_handle() method.
  - Fix lang key.
 
 0.02 2026-04-15T00:57:18+02:00
