@@ -38,7 +38,7 @@ our %Lexicon = (
 	'encoding_level.u' => 'Unknown',
 	'encoding_level.z' => 'Not applicable',
 
-	'impl_def_portion_len,0' => 'Number of characters in the implementation-defined portion of a Directory entry',
+	'impl_def_portion_len.0' => 'Number of characters in the implementation-defined portion of a Directory entry',
 
 	'indicator_count.2' => 'Number of character positions used for indicators',
 
