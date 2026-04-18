@@ -6,7 +6,7 @@ use warnings;
 
 use Unicode::UTF8 qw(decode_utf8);
 
-our $VERSION = 0.05;
+our $VERSION = 0.06;
 
 our %Lexicon = (
 	'Bibliographic level' => 'Bibliografische Ebene',
